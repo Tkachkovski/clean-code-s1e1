@@ -38,7 +38,7 @@
 .task__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .input-wrapper {
@@ -137,7 +137,7 @@
 }
 
 .input-list{
-  width: 226px
+  width: 226px;
 }
 
 .button-logo{
@@ -152,13 +152,13 @@
 
 /* Completed */
 .incomplete-label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .input-text{
-  display:none
+  display:none;
 }
 
 .input-edit{
