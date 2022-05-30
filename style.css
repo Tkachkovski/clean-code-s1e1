@@ -12,7 +12,7 @@
   text-align: right;
 }
 
-.header-image {
+.header-img {
   width: 100%;
 }
 
@@ -118,7 +118,7 @@
 }
 
 .task__add-input {
-  width: 318px;
+  width: 425px;
 }
 
 /* Task list */
@@ -154,13 +154,13 @@
   width: 226px;
 }
 
-.delete-img {
+.remove-btn {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.delete-img:hover {
+.remove-btn:hover {
   transform: rotateZ(0);
 }
 
@@ -177,7 +177,7 @@
 
 .task__list-item_edit-mode .task__input {
   display: inline-block;
-  width: 224px;
+  width: 333px;
 }
 
 .task__list-item_edit-mode .task__label {
